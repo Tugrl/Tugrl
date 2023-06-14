@@ -36,7 +36,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tuğrul-alparslan-7b9249216/"><img src="https://img.shields.io/badge/-Tugrul_Alparslan?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/tugrllalp/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/tugrllalp/"><img src="https://img.shields.io/badge/-Tugrul_Alparslan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
